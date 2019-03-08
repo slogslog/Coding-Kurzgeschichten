@@ -10,5 +10,7 @@ Please note that the channel is aiming to teach programming to young people. Not
 
 |Solution|Was ist das für eine Solution?|Themen|Video (aufs Bild draufklicken)|
 |:---:|:---:|:---:|:---:|
-|001 Roman möchte ins Kino - mit Structs/Roman.sln|Das im Video erstellte Programm.|*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.jpg" align="left" height="135" width="240" ></a>|
-|002 Roman möchte ins Kino - mit Classes - 1/Roman.sln|Das im Video erstellte Programm.|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.jpg" align="left" height="135" width="240" ></a>||||||
+|001 Roman möchte ins Kino - mit Structs/Roman.sln|Das im Video erstellte Programm.|*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.jpg" align="left" height="120" width="213" ></a>|
+|002 Roman möchte ins Kino - mit Classes - 1/Roman.sln|Das im Video erstellte Programm.|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.jpg" align="left" height="120" width="213" ></a>|
+|003 Roman möchte ins Kino - mit Classes - 2/Roman.sln|Das im Video erstellte Programm.|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.jpg" align="left" height="120" width="213" ></a>|
+|||||
