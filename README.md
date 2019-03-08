@@ -8,8 +8,7 @@ Please note that the channel is aiming to teach programming to young people. Not
 
 # Videolinks und Programme in diesem Repository
 
-|Verzeichnis|Themen|Video (aufs Bild draufklicken)|
-|:---:|:---:|:---:|
-|*001 Roman möchte ins Kino - mit Structs*|Strukturen, statische Methoden|[![Hier sollte ein Bild zu sehen sein!](images/001.png)](http://www.youtube.com/watch?v=dDfRkwtjucs "Structs und statische Methoden in C# - Roman möchte ins Kino gehen und braucht Knete")|
-||||
-||||
+|Solution|Was ist das für eine Solution?|Themen|Video (aufs Bild draufklicken)|
+|:---:|:---:|:---:|:---:|
+|001 Roman möchte ins Kino - mit Structs/Roman.sln|Das im Video erstellte Programm.|*Strukturen, statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="file://images/001.png" align="left" height="135" width="240" ></a>
+|||||
