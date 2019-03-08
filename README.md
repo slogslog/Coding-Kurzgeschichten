@@ -10,10 +10,10 @@ Please note that the channel is aiming to teach programming to young people. Not
 
 |Solution|Was ist das für eine Solution?|Themen|Video (aufs Bild draufklicken)|
 |:---:|:---:|:---:|:---:|
-|001 Roman möchte ins Kino - mit Structs/Roman.sln|Das im Video erstellte Programm.|*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.jpg" align="left" height="120" width="213" ></a>|
-|002 Roman möchte ins Kino - mit Classes - 1/Roman.sln|Das im Video erstellte Programm.|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.jpg" align="left" height="120" width="213" ></a>|
-|003 Roman möchte ins Kino - mit Classes - 2/Roman.sln|Das im Video erstellte Programm.|*Klassen, private, Getter*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.jpg" align="left" height="120" width="213" ></a>|
-|004 Hinweise auf Essbares - 1/Min15.sln|Siehe Minute 15 im Video|*int Variablen am Stack*|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.jpg" align="left" height="120" width="213" ></a>|
+|001 Roman möchte ins Kino - mit Structs/Roman.sln|Das im Video erstellte Programm.|*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.jpg" align="left" height="120" width="160" ></a>|
+|002 Roman möchte ins Kino - mit Classes - 1/Roman.sln|Das im Video erstellte Programm.|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.jpg" align="left" height="120" width="160" ></a>|
+|003 Roman möchte ins Kino - mit Classes - 2/Roman.sln|Das im Video erstellte Programm.|*Klassen, private, Getter*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.jpg" align="left" height="120" width="160" ></a>|
+|004 Hinweise auf Essbares - 1/Min15.sln|Siehe Minute 15 im Video|*int Variablen am Stack*|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.jpg" align="left" height="120" width="160" ></a>|
 |004 Hinweise auf Essbares - 1/Min21.sln|Siehe Minute 21 im Video|*char Variablen am Stack*||
 |004 Hinweise auf Essbares - 1/Min25.sln|Siehe Minute 25 im Video|*int Inputparameter am Stack bei Methodenaufrufen*||
 |004 Hinweise auf Essbares - 1/Min33.sln|Siehe Minute 33 im Video.|*ref Parameter am Stack bei Methodenaufrufen*||
