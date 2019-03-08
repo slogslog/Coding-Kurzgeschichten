@@ -8,17 +8,17 @@ Please note that the channel is aiming to teach programming to young people. Not
 
 # Videolinks und Programme in diesem Repository
 
-|Solution|Was ist das für eine Solution?|Themen|Video (aufs Bild draufklicken)|
+|Verzeichnis|Inhalt|Themen|Video (aufs Bild draufklicken)|
 |:---:|:---:|:---:|:---:|
 |001 Roman möchte ins Kino - mit Structs|Das erstellte Programm.|*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.jpg" align="left" height="100" width="213" ></a>|
 |002 Roman möchte ins Kino - mit Classes - 1|Das erstellte Programm.|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.jpg" align="left" height="100" width="213" ></a>|
 |003 Roman möchte ins Kino - mit Classes - 2|Das erstellte Programm.|*Klassen, private, Getter*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.jpg" align="left" height="100" width="213" ></a>|
-|004 Hinweise auf Essbares - 1/Min15|bei Minute 15|*int Variablen am Stack*|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.jpg" align="left" height="100" width="213" ></a>|
-|004 Hinweise auf Essbares - 1/Min21|bei Minute 21|*char Variablen am Stack*||
-|004 Hinweise auf Essbares - 1/Min25|bei Minute 25|*int Inputparameter am Stack bei Methodenaufrufen*||
-|004 Hinweise auf Essbares - 1/Min33|bei Minute 33.|*ref Parameter am Stack bei Methodenaufrufen*||
-|005 Hinweise auf Essbares - 2/String|bei Minute 2|*Speicherung von Strings*|<a href="https://www.youtube.com/watch?v=FcNvD2-jyCg"><img src="images/005.jpg" align="left" height="100" width="213" ></a>|
-|005 Hinweise auf Essbares - 2/Arrays|bei Minute 15|*Speicherung von Arrays*||
-|005 Hinweise auf Essbares - 2/Arrays Input|bei Minute 15|*Reference Types bei Input Parameter*||
-|006 Hinweise auf Essbares - 3/Array ref|wird ab Minute 14 debuggert|*Reference Types und ref bei Methodenaufrufen*|<a href="https://www.youtube.com/watch?v=2ud9My5RNGk"><img src="images/006.jpg" align="left" height="100" width="213" ></a>|
+|004 Hinweise auf Essbares - 1/Min15|Programm bei Minute 15|*int Variablen am Stack*|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.jpg" align="left" height="100" width="213" ></a>|
+|004 Hinweise auf Essbares - 1/Min21|Programm bei Minute 21|*char Variablen am Stack*||
+|004 Hinweise auf Essbares - 1/Min25|Programm bei Minute 25|*int Inputparameter am Stack bei Methodenaufrufen*||
+|004 Hinweise auf Essbares - 1/Min33|Programm bei Minute 33.|*ref Parameter am Stack bei Methodenaufrufen*||
+|005 Hinweise auf Essbares - 2/String|Programm bei Minute 2|*Speicherung von Strings*|<a href="https://www.youtube.com/watch?v=FcNvD2-jyCg"><img src="images/005.jpg" align="left" height="100" width="213" ></a>|
+|005 Hinweise auf Essbares - 2/Arrays|Programm bei Minute 15|*Speicherung von Arrays*||
+|005 Hinweise auf Essbares - 2/Arrays Input|Programm bei Minute 15|*Reference Types bei Input Parameter*||
+|006 Hinweise auf Essbares - 3/Array ref|Programm wird ab Minute 14 debuggert|*Reference Types und ref bei Methodenaufrufen*|<a href="https://www.youtube.com/watch?v=2ud9My5RNGk"><img src="images/006.jpg" align="left" height="100" width="213" ></a>|
 |||||
