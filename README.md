@@ -22,4 +22,7 @@ Please note that the channel is aiming to teach programming to young people. Not
 |005 Hinweise auf Essbares - 2/Arrays Input|Programm bei Minute 15|*Reference Types bei Input Parameter*||
 |006 Hinweise auf Essbares - 3/Array ref|Programm wird ab Minute 14 debuggert|*Reference Types und ref bei Methodenaufrufen*|<a href="https://www.youtube.com/watch?v=2ud9My5RNGk"><img src="images/006.jpg" align="left" height="100" width="213" ></a>|
 |||||
+|||||
+|015 Value Tuples/Personen|Wird ab Minute 3 verwendet|*Value Tuples*|<a href="https://www.youtube.com/watch?v=GL563msVGHI"><img src="images/015.jpg" align="left" height="100" width="213" ></a>|
+|015 Value Tuple/MinUndMaxVonWerten|Value Tuple als Rückgabewerte|*Value Tuple*||
 |016 Flaschen und Zahlen|Verwendete Programme|*Speichern von Reference Types und Value Types*|<a href="https://www.youtube.com/watch?v=zif4GXnDGiw"><img src="images/016.jpg" align="left" height="100" width="213" ></a>|
