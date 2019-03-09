@@ -12,9 +12,9 @@ This repository contains programs of my youtube channel [Kurzgeschichten in C#](
 
 [Thomas Schlögl](https://www.linkedin.com/in/thomas-schl%C3%B6gl-b6692a142)
 
-# Die Programme zu den Videolinks
+# Liste aller Programme der Videos
 
-|Verzeichnis|Inhalt|Themen|Video (aufs Bild draufklicken)|
+|Verzeichnis|Bemerkung|Themen|Video (aufs Bild draufklicken)|
 |:---:|:---:|:---:|:---:|
 |001 Roman möchte ins Kino - mit Structs| |*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.png" align="left" style="width: 300px; height: auto;"></a>|
 |002 Roman möchte ins Kino - mit Classes - 1| |*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.png" align="left" style="width: 300px; height: auto;"></a>|
