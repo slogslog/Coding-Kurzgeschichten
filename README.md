@@ -6,7 +6,7 @@ Das Repository enthält Programme die im Youtube Channel [Kurzgeschichten in C#]
 This repository contains programs of the youtube channel [Kurzgeschichten in C#](https://www.youtube.com/channel/UCMcHR9DBcGsbDtoZyZIFqoA) (engl. "Short stories in C#").
 Please note that the channel is aiming to teach programming to young people. Not only the speech but also most code parts are in German. I am fully aware that this is very unusual in professional software development. But IMHO German names of classes, methods and variables are a great help for most young folks in understanding programs and their concepts.
 
-# Videolinks und Programme in diesem Repository
+# Videolinks und Programme
 
 |Verzeichnis|Inhalt|Themen|Video (aufs Bild draufklicken)|
 |:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Please note that the channel is aiming to teach programming to young people. Not
 |007 From London to Tokyo/RonansTour|Explained at minute 31|*StreamReader, GeoCoordinate*||
 |008 TV Fernbedienung 1|Das erstellte Programm|*Delegates*|<a href="https://www.youtube.com/watch?v=flq6xUlshQ0"><img src="images/008.png" align="left" style="width: 200px; height: auto;"></a>|
 |009 TV Fernbedienung 2|Das erstellte Programm|*Func, Action*|<a href="https://www.youtube.com/watch?v=LxtDybZaLI4"><img src="images/009.png" align="left" style="width: 200px; height: auto;"></a>|
-|010 TV Fernbedienung 2|Das erstellte Programm|*Func, Action*|<a href="https://www.youtube.com/watch?v=LxtDybZaLI4"><img src="images/009.png" align="left" style="width: 200px; height: auto;"></a>|
+|||||
 |||||
 012 Linked Lists 1|Das erstellte Programm|*Einfach verkettete Listen (Grundlagen)*|<a href="https://www.youtube.com/watch?v=11i9zt0vuTw"><img src="images/012.png" align="left" style="width: 200px; height: auto;"></a>|
 013 Linked Lists 2|Das erstellte Programm|*Einfach verkettete Listen (Einfügen)*|<a href="https://www.youtube.com/watch?v=9UkC1F1Tb3g"><img src="images/013.png" align="left" style="width: 200px; height: auto;"></a>|
