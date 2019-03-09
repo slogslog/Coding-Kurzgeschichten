@@ -6,29 +6,29 @@ Das Repository enthält Programme die im Youtube Channel [Kurzgeschichten in C#]
 This repository contains programs of the youtube channel [Kurzgeschichten in C#](https://www.youtube.com/channel/UCMcHR9DBcGsbDtoZyZIFqoA) (engl. "Short stories in C#").
 Please note that the channel is aiming to teach programming to young people. Not only the speech but also most code parts are in German. I am fully aware that this is very unusual in professional software development. But IMHO German names of classes, methods and variables are a great help for most young folks in understanding programs and their concepts.
 
-# Videolinks und Programme
+# Die Programme zu den Videolinks
 
 |Verzeichnis|Inhalt|Themen|Video (aufs Bild draufklicken)|
 |:---:|:---:|:---:|:---:|
-|001 Roman möchte ins Kino - mit Structs|Das erstellte Programm|*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.png" align="left" style="width: 200px; height: auto;"></a>|
-|002 Roman möchte ins Kino - mit Classes - 1|Das erstellte Programm|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.png" align="left" style="width: 200px; height: auto;"></a>|
-|003 Roman möchte ins Kino - mit Classes - 2|Das erstellte Programm|*Klassen, private, Getter*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.png" align="left" style="width: 200px; height: auto;"></a>|
-|004 Hinweise auf Essbares - 1/Min15|Programm bei Minute 15|*Speicherung von int-Variablen bei der Programmausführung*|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.png" align="left" style="width: 200px; height: auto;"></a>|
-|004 Hinweise auf Essbares - 1/Min21|Programm bei Minute 21|*Speicherung von char-Variablen bei der Programmausführung*||
-|004 Hinweise auf Essbares - 1/Min25|Programm bei Minute 25|*Methodenaufrufe mit int-Parametern*||
-|004 Hinweise auf Essbares - 1/Min33|Programm bei Minute 33.|*Methodenaufrufe mit ref-Parametern*||
-|005 Hinweise auf Essbares - 2/String|Programm bei Minute 2|*Speicherung von Strings bei der Programmausführung*|<a href="https://www.youtube.com/watch?v=FcNvD2-jyCg"><img src="images/005.png" align="left" style="width: 200px; height: auto;"></a>|
+|001 Roman möchte ins Kino - mit Structs| |*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.png" align="left" style="width: 200px; height: auto;"></a>|
+|002 Roman möchte ins Kino - mit Classes - 1| |*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.png" align="left" style="width: 200px; height: auto;"></a>|
+|003 Roman möchte ins Kino - mit Classes - 2| |*Klassen, private, Getter*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.png" align="left" style="width: 200px; height: auto;"></a>|
+|004 Hinweise auf Essbares - 1/Min15|Das Programm von Minute 15|*Speicherung von int-Variablen bei der Programmausführung*|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.png" align="left" style="width: 200px; height: auto;"></a>|
+|004 Hinweise auf Essbares - 1/Min21|Das Programm von Minute 21.|*Speicherung von char-Variablen bei der Programmausführung*||
+|004 Hinweise auf Essbares - 1/Min25|Das Programm von Minute 25.|*Methodenaufrufe mit int-Parametern*||
+|004 Hinweise auf Essbares - 1/Min33|Das Programm von Minute 33.|*Methodenaufrufe mit ref-Parametern*||
+|005 Hinweise auf Essbares - 2/String|Das Programm von Minute 2.|*Speicherung von Strings bei der Programmausführung*|<a href="https://www.youtube.com/watch?v=FcNvD2-jyCg"><img src="images/005.png" align="left" style="width: 200px; height: auto;"></a>|
 |005 Hinweise auf Essbares - 2/Arrays|Programm bei Minute 15|*Arrays im Speicher*||
-|005 Hinweise auf Essbares - 2/Arrays Input|Programm bei Minute 15|*Methodenaufrufe mit ref-Parametern vom Typ int (Value Type)*||
-|006 Hinweise auf Essbares - 3/Array ref|Programm wird ab Minute 14 debuggert|*Methodenaufrufe mit ref-Parametern vom Typ Array (Reference Type)*|<a href="https://www.youtube.com/watch?v=2ud9My5RNGk"><img src="images/006.png" align="left" style="width: 200px; height: auto;"></a>|
-|007 From London to Tokyo/GetGeoCoordsFromName|Explained at minute 17|*WebClient, Path, StreamReader, StreamWriter, String search*|<a href="https://www.youtube.com/watch?v=LHZViXEuiAo"><img src="images/007.png" align="left" style="width: 200px; height: auto;"></a>|
-|007 From London to Tokyo/RonansTour|Explained at minute 31|*StreamReader, GeoCoordinate*||
-|008 TV Fernbedienung 1|Das erstellte Programm|*Delegates*|<a href="https://www.youtube.com/watch?v=flq6xUlshQ0"><img src="images/008.png" align="left" style="width: 200px; height: auto;"></a>|
-|009 TV Fernbedienung 2|Das erstellte Programm|*Func, Action*|<a href="https://www.youtube.com/watch?v=LxtDybZaLI4"><img src="images/009.png" align="left" style="width: 200px; height: auto;"></a>|
-|||||
-|||||
-012 Linked Lists 1|Das erstellte Programm|*Einfach verkettete Listen (Grundlagen)*|<a href="https://www.youtube.com/watch?v=11i9zt0vuTw"><img src="images/012.png" align="left" style="width: 200px; height: auto;"></a>|
-013 Linked Lists 2|Das erstellte Programm|*Einfach verkettete Listen (Einfügen)*|<a href="https://www.youtube.com/watch?v=9UkC1F1Tb3g"><img src="images/013.png" align="left" style="width: 200px; height: auto;"></a>|
+|005 Hinweise auf Essbares - 2/Arrays Input|Das Programm von Minute 15.|*Methodenaufrufe mit ref-Parametern vom Typ int (Value Type)*||
+|006 Hinweise auf Essbares - 3/Array ref|Dieses Programm wird ab Minute 14 debuggert.|*Methodenaufrufe mit ref-Parametern vom Typ Array (Reference Type)*|<a href="https://www.youtube.com/watch?v=2ud9My5RNGk"><img src="images/006.png" align="left" style="width: 200px; height: auto;"></a>|
+|007 From London to Tokyo/GetGeoCoordsFromName|Program to download data at minute 17.|*WebClient, Path, StreamReader, StreamWriter, String search*|<a href="https://www.youtube.com/watch?v=LHZViXEuiAo"><img src="images/007.png" align="left" style="width: 200px; height: auto;"></a>|
+|007 From London to Tokyo/RonansTour|Calculation of the entire distance at minute 31.|*StreamReader, GeoCoordinate*||
+|008 TV Fernbedienung 1| |*Delegates*|<a href="https://www.youtube.com/watch?v=flq6xUlshQ0"><img src="images/008.png" align="left" style="width: 200px; height: auto;"></a>|
+|009 TV Fernbedienung 2| |*Func, Action (bei 11:02 Reguläre Ausdrücke in Visual Studio)*|<a href="https://www.youtube.com/watch?v=LxtDybZaLI4"><img src="images/009.png" align="left" style="width: 200px; height: auto;"></a>|
+|010 DateTime| |*DateTime, TimeSpan*|<a href="https://www.youtube.com/watch?v=JlbPucuCbGg"><img src="images/010.png" align="left" style="width: 200px; height: auto;"></a>|
+|011 Enums| |*Enums*|<a href="https://www.youtube.com/watch?v=hvz-ivzUJjc"><img src="images/011.png" align="left" style="width: 200px; height: auto;"></a>|
+012 Linked Lists 1| |*Einfach verkettete Listen (Grundlagen)*|<a href="https://www.youtube.com/watch?v=11i9zt0vuTw"><img src="images/012.png" align="left" style="width: 200px; height: auto;"></a>|
+013 Linked Lists 2| |*Einfach verkettete Listen (Einfügen)*|<a href="https://www.youtube.com/watch?v=9UkC1F1Tb3g"><img src="images/013.png" align="left" style="width: 200px; height: auto;"></a>|
 |||||
 |015 Value Tuple/Personen|Wird ab Minute 3 erklärt|*Value Tuple*|<a href="https://www.youtube.com/watch?v=GL563msVGHI"><img src="images/015.png" align="left" style="width: 200px; height: auto;"></a>|
 |015 Value Tuple/MinUndMaxVonWerten|Wird ab Minute 4 erklärt|*Value Tuple als Rückgabewerte*||
