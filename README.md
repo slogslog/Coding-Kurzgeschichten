@@ -19,14 +19,14 @@ This repository contains programs of my youtube channel [Kurzgeschichten in C#](
 |001 Roman möchte ins Kino - mit Structs| |*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.png" align="left" style="width: 200px; height: auto;"></a>|
 |002 Roman möchte ins Kino - mit Classes - 1| |*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.png" align="left" style="width: 200px; height: auto;"></a>|
 |003 Roman möchte ins Kino - mit Classes - 2| |*Klassen, private, Getter*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.png" align="left" style="width: 200px; height: auto;"></a>|
-|004 Hinweise auf Essbares - 1/Min15|Das Programm von Minute 15|*Speicherung von int-Variablen bei der Programmausführung*|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.png" align="left" style="width: 200px; height: auto;"></a>|
-|004 Hinweise auf Essbares - 1/Min21|Das Programm von Minute 21.|*Speicherung von char-Variablen bei der Programmausführung*||
-|004 Hinweise auf Essbares - 1/Min25|Das Programm von Minute 25.|*Methodenaufrufe mit int-Parametern*||
-|004 Hinweise auf Essbares - 1/Min33|Das Programm von Minute 33.|*Methodenaufrufe mit ref-Parametern*||
-|005 Hinweise auf Essbares - 2/String|Das Programm von Minute 2.|*Speicherung von Strings bei der Programmausführung*|<a href="https://www.youtube.com/watch?v=FcNvD2-jyCg"><img src="images/005.png" align="left" style="width: 200px; height: auto;"></a>|
-|005 Hinweise auf Essbares - 2/Arrays|Programm bei Minute 15|*Arrays im Speicher*||
-|005 Hinweise auf Essbares - 2/Arrays Input|Das Programm von Minute 15.|*Methodenaufrufe mit ref-Parametern vom Typ int (Value Type)*||
-|006 Hinweise auf Essbares - 3/Array ref|Dieses Programm wird ab Minute 14 debuggert.|*Methodenaufrufe mit ref-Parametern vom Typ Array (Reference Type)*|<a href="https://www.youtube.com/watch?v=2ud9My5RNGk"><img src="images/006.png" align="left" style="width: 200px; height: auto;"></a>|
+|004 Hinweise auf Essbares - 1/Min15|Das Programm von Minute 15|*int-Variablen bei der Programmausführung (Stack)*|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.png" align="left" style="width: 200px; height: auto;"></a>|
+|004 Hinweise auf Essbares - 1/Min21|Das Programm von Minute 21.|*char-Variablen bei der Programmausführung (Stack)*||
+|004 Hinweise auf Essbares - 1/Min25|Das Programm von Minute 25.|*Methodenaufrufe mit int-Parametern (Stack)*||
+|004 Hinweise auf Essbares - 1/Min33|Das Programm von Minute 33.|*Methodenaufrufe mit ref-Parametern (Stack, Heap)*||
+|005 Hinweise auf Essbares - 2/String|Das Programm von Minute 2.|*string-Variablen bei der Programmausführung (Stack, Heap)*|<a href="https://www.youtube.com/watch?v=FcNvD2-jyCg"><img src="images/005.png" align="left" style="width: 200px; height: auto;"></a>|
+|005 Hinweise auf Essbares - 2/Arrays|Programm bei Minute 15|*Arrays bei der Programmausführung(Stack, Heap)*||
+|005 Hinweise auf Essbares - 2/Arrays Input|Das Programm von Minute 15.|*Methodenaufrufe mit ref-Parametern vom Typ int (Value Type, Stack, Heap)*||
+|006 Hinweise auf Essbares - 3/Array ref|Dieses Programm wird ab Minute 14 debuggert.|*Methodenaufrufe mit ref-Parametern vom Typ Array (Reference Type, Stack, Heap)*|<a href="https://www.youtube.com/watch?v=2ud9My5RNGk"><img src="images/006.png" align="left" style="width: 200px; height: auto;"></a>|
 |007 From London to Tokyo/GetGeoCoordsFromName|Program to download data at minute 17.|*WebClient, Path, StreamReader, StreamWriter, String search*|<a href="https://www.youtube.com/watch?v=LHZViXEuiAo"><img src="images/007.png" align="left" style="width: 200px; height: auto;"></a>|
 |007 From London to Tokyo/RonansTour|Calculation of the entire distance at minute 31.|*StreamReader, GeoCoordinate*||
 |008 TV Fernbedienung 1| |*Delegates*|<a href="https://www.youtube.com/watch?v=flq6xUlshQ0"><img src="images/008.png" align="left" style="width: 200px; height: auto;"></a>|
