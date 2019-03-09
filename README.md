@@ -10,7 +10,7 @@ This repository contains programs of my youtube channel [Kurzgeschichten in C#](
 
 **I am fully aware that this is very unusual for  professional software developers.** But I think, switching later to English coding and commenting is comparatively simple.
 
-(Thomas Schlögl)[https://www.linkedin.com/in/thomas-schl%C3%B6gl-b6692a142/ "Thomas Schlögl"]
+[Thomas Schlögl](https://www.linkedin.com/in/thomas-schl%C3%B6gl-b6692a142)
 
 # Die Programme zu den Videolinks
 
@@ -35,8 +35,7 @@ This repository contains programs of my youtube channel [Kurzgeschichten in C#](
 |011 Enums| |*Enums*|<a href="https://www.youtube.com/watch?v=hvz-ivzUJjc"><img src="images/011.png" align="left" style="width: 200px; height: auto;"></a>|
 012 Linked Lists 1| |*Einfach verkettete Listen (Grundlagen)*|<a href="https://www.youtube.com/watch?v=11i9zt0vuTw"><img src="images/012.png" align="left" style="width: 200px; height: auto;"></a>|
 013 Linked Lists 2| |*Einfach verkettete Listen (Einfügen)*|<a href="https://www.youtube.com/watch?v=9UkC1F1Tb3g"><img src="images/013.png" align="left" style="width: 200px; height: auto;"></a>|
-|||||
+|014 Vererbung||*Vererbung, Polymorphie*|<a href="https://www.youtube.com/watch?v=p-KOLrwdaG8"><img src="images/014.png" align="left" style="width: 200px; height: auto;"></a>|
 |015 Value Tuple/Personen|Wird ab Minute 3 erklärt|*Value Tuple*|<a href="https://www.youtube.com/watch?v=GL563msVGHI"><img src="images/015.png" align="left" style="width: 200px; height: auto;"></a>|
 |015 Value Tuple/MinUndMaxVonWerten|Wird ab Minute 4 erklärt|*Value Tuple als Rückgabewerte*||
 |016 Flaschen und Zahlen|Verwendete Programme|*Speichern von Reference Types und Value Types*|<a href="https://www.youtube.com/watch?v=zif4GXnDGiw"><img src="images/016.png" align="left" style="width: 200px; height: auto;"></a>|
-
