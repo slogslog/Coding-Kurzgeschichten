@@ -11,7 +11,7 @@ Please note that the channel is aiming to teach programming to young people. Not
 |Verzeichnis|Inhalt|Themen|Video (aufs Bild draufklicken)|
 |:---:|:---:|:---:|:---:|
 |001 Roman möchte ins Kino - mit Structs|Das erstellte Programm|*Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.png" align="left" height="110" width="200" ></a>|
-|002 Roman möchte ins Kino - mit Classes - 1|Das erstellte Programm|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.png" align="left" style="max-width: 200px; height: auto; "></a>|
+|002 Roman möchte ins Kino - mit Classes - 1|Das erstellte Programm|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.png" align="left" style="width: 200px; height: auto; "></a>|
 |003 Roman möchte ins Kino - mit Classes - 2|Das erstellte Programm|*Klassen, private, Getter*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.png" align="left" height="110" width="200" ></a>|
 |004 Hinweise auf Essbares - 1/Min15|Programm bei Minute 15|*Speicherung von int-Variablen bei der Programmausführung*|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.png" align="left" height="110" width="200" ></a>|
 |004 Hinweise auf Essbares - 1/Min21|Programm bei Minute 21|*Speicherung von char-Variablen bei der Programmausführung*||
