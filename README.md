@@ -3,12 +3,12 @@
 Hier findet man alle Programme die im Youtube Channel [Kurzgeschichten in C#](https://www.youtube.com/channel/UCMcHR9DBcGsbDtoZyZIFqoA) erstellt oder auch nur erklärt werden. 
 
 **Warum ist der Code auf Deutsch?**
-Da die Lernvideos alle das Ziel verfolgen Jugendlichen und Junggebliebenen Hilfe beim Erlernen von C# zu geben, sind Variablen-, Klassen- und Methodennamen hauptsächlich in Deutsch, obwohl das in der professionellen Softwareentwicklung äußerst ungewöhnlich ist. Ich habe mich trotzdem dazu entschieden, weil ich denke, dass es für viele junge angehende Code Junkies durchaus hilfreich ist. Die Umstellung auf Englisch fällt dagegen nicht schwer.
+Da die Lernvideos alle das Ziel verfolgen Jugendlichen und Junggebliebenen Hilfe beim Erlernen von C# zu geben, sind Variablen-, Klassen- und Methodennamen hauptsächlich in Deutsch, obwohl das in der professionellen Softwareentwicklung äußerst ungewöhnlich ist. Ich habe mich trotzdem dazu entschieden, weil ich denke, dass es für viele junge angehende Code Junkies durchaus hilfreich ist. Die Umstellung auf Englisch zu einem späteren Zeitpunkt fällt dagegen vergleichsweise nicht schwer.
 
 **Information for English visitors:**
-This repository contains programs of my youtube channel [Kurzgeschichten in C#](https://www.youtube.com/channel/UCMcHR9DBcGsbDtoZyZIFqoA) (engl. "Short stories in C#"). Videos and also most of the programs are in German. The channel is aiming to teach programming to young fellows who IMHO might take an easier start to coding with German names for classes, methods and variables.
+This repository contains programs of my youtube channel [Kurzgeschichten in C#](https://www.youtube.com/channel/UCMcHR9DBcGsbDtoZyZIFqoA) (engl. "Short stories in C#"). Not only the videos, but also names of classes, methods and variables are in  (Austrian) German. The channel is aiming to teach programming to young fellows and those which are young at heart. IMHO it may give an easier start by using German.
 
-**I am fully aware that this is very unusual for  professional software developers.** But I think, switching later to English coding and commenting is comparatively simple.
+**I am fully aware that this is very unusual for software developers.** But I think, switching later to English coding and commenting is comparatively simple anyway.
 
 [Thomas Schlögl](https://www.linkedin.com/in/thomas-schl%C3%B6gl-b6692a142)
 
@@ -39,3 +39,5 @@ This repository contains programs of my youtube channel [Kurzgeschichten in C#](
 |015 Value Tuple/Personen|Wird ab Minute 3 erklärt|*Value Tuple*|<a href="https://www.youtube.com/watch?v=GL563msVGHI"><img src="images/015.png" align="left" style="width: 200px; height: auto;"></a>|
 |015 Value Tuple/MinUndMaxVonWerten|Wird ab Minute 4 erklärt|*Value Tuple als Rückgabewerte*||
 |016 Flaschen und Zahlen|Verwendete Programme|*Speichern von Reference Types und Value Types*|<a href="https://www.youtube.com/watch?v=zif4GXnDGiw"><img src="images/016.png" align="left" style="width: 200px; height: auto;"></a>|
+
+Have fun!
