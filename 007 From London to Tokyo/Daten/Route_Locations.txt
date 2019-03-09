@@ -1,0 +1,28 @@
+﻿Bearsted
+Folkstone
+Dunkirk,Dünkirchen
+Bruges,Brügge
+Zaamslag
+Antwerp,Antwerpen
+Bierkroeg Den Hulst
+Liège,Lüttich
+Dahlem
+Winnerath
+Koblenz
+Frankfurt
+Aschaffenburg
+Miltenberg
+Karlstadt
+Tauberbischofsheim
+Ansbach
+Möttingen
+Donauwörth
+Ingolstadt
+Bad Abbach
+Schwarzach
+Passau
+Puchenau
+St. Pantaleon-Erla
+Kilb
+St. Pölten
+Vienna,Wien
