@@ -35,8 +35,8 @@ This repository contains programs of my youtube channel [Kurzgeschichten in C#](
 |011 Enums| |*Enums*|<a href="https://www.youtube.com/watch?v=hvz-ivzUJjc"><img src="images/011.png" align="left" style="width: 300px; height: auto;"></a>|
 012 Linked Lists 1| |*Einfach verkettete Listen: Grundlagen*|<a href="https://www.youtube.com/watch?v=11i9zt0vuTw"><img src="images/012.png" align="left" style="width: 300px; height: auto;"></a>|
 013 Linked Lists 2| |*Einfach verkettete Listen: Einfügen und ToString()*|<a href="https://www.youtube.com/watch?v=9UkC1F1Tb3g"><img src="images/013.png" align="left" style="width: 300px; height: auto;"></a>|
-|014 Vererbung/Supermarkt|Mit diesem Programm kannst du mitprogrammieren.|*Vererbung, Polymorphie*|<a href="https://www.youtube.com/watch?v=p-KOLrwdaG8"><img src="images/014.png" align="left" style="width: 300px; height: auto;"></a>|
-|014 Vererbung/Supermarkt|Das fertige Programm am Ende des Videos||
+|014 Vererbung/Supermarkt|Mit diesem Programm kannst du mitprogrammieren und alle Schritte im Video nachvollziehen.|*Vererbung, Polymorphie*|<a href="https://www.youtube.com/watch?v=p-KOLrwdaG8"><img src="images/014.png" align="left" style="width: 300px; height: auto;"></a>|
+|014 Vererbung/Supermarkt Fertig|Das fertige Programm am Ende des Videos||
 |015 Value Tuple/MinUndMaxVonWerten|Wird ab Minute 4 erklärt|*Value Tuple als Rückgabewerte*|*Vererbung, Polymorphie*|
 |016 Flaschen und Zahlen|Verwendete Programme|*Speichern von Reference Types und Value Types*|<a href="https://www.youtube.com/watch?v=zif4GXnDGiw"><img src="images/016.png" align="left" style="width: 300px; height: auto;"></a>|
 
