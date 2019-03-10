@@ -16,7 +16,7 @@ This repository contains programs of my youtube channel [Kurzgeschichten in C#](
 
 |Verzeichnis|Themen|Video (aufs Bild draufklicken)|
 |:---|:---|:---:|
-|001 Roman möchte ins Kino - mit Structs| *Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.png" align="left" style="width: 300px; height: auto;"></a>|
+|001 Roman möchte ins Kino - mit Structs| *Strukturen, statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.png" align="left" style="width: 300px; height: auto;"></a>|
 |002 Roman möchte ins Kino - mit Classes - 1|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.png" align="left" style="width: 300px; height: auto;"></a>|
 |003 Roman möchte ins Kino - mit Classes - 2|*Klassen, private, Getter*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.png" align="left" style="width: 300px; height: auto;"></a>|
 |004 Hinweise auf Essbares - 1|int- und char-Variablen bei der Programmausführung am Stack und Heap|<a href="https://www.youtube.com/watch?v=FN5EWXP4QMU"><img src="images/004.png" align="left" style="width: 300px; height: auto;"></a>|
