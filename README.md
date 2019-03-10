@@ -31,6 +31,6 @@ This repository contains programs of my youtube channel [Kurzgeschichten in C#](
 013 Linked Lists 2|*Einfach verkettete Listen: Einfügen und ToString()*|<a href="https://www.youtube.com/watch?v=9UkC1F1Tb3g"><img src="images/013.png" align="left" style="width: 300px; height: auto;"></a>|
 |014 Vererbung/Supermarkt|*Vererbung, Polymorphie*|<a href="https://www.youtube.com/watch?v=p-KOLrwdaG8"><img src="images/014.png" align="left" style="width: 300px; height: auto;"></a>|
 |015 Value Tuple|*Value Tuple*|<a href="https://www.youtube.com/watch?v=GL563msVGHI"><img src="images/015.png" align="left" style="width: 300px; height: auto;"></a>|
-|016 Flaschen und Zahlen|*Speichern von Reference Types und Value Types*|<a href="https://www.youtube.com/watch?v=zif4GXnDGiw"><img src="images/016.png" align="left" style="width: 300px; height: auto;"></a>|
+|016 Flaschen und Zahlen|*Speichern von Reference Types und Value Types bei der Programmausführung am Stack und Heap*|<a href="https://www.youtube.com/watch?v=zif4GXnDGiw"><img src="images/016.png" align="left" style="width: 300px; height: auto;"></a>|
 
 # Have fun with all that stuff!
