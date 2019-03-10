@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Supermarkt
 {
+    // Klasse für ein Produkt
     class Produkt
     {
         public string Name { get; private set; }
