@@ -15,7 +15,7 @@ This repository contains programs of my youtube channel [Kurzgeschichten in C#](
 # Liste aller Programme der Videos
 
 |Verzeichnis|Themen|Video (aufs Bild draufklicken)|
-|:---:|:---:|:---:|
+|:---|:---:|:---:|
 |001 Roman möchte ins Kino - mit Structs| *Strukturen,<br>statische Methoden*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.png" align="left" style="width: 300px; height: auto;"></a>|
 |002 Roman möchte ins Kino - mit Classes - 1|*Klassen, Instanzvariablen*|<a href="https://www.youtube.com/watch?v=wPVpxVcoXFw"><img src="images/002.png" align="left" style="width: 300px; height: auto;"></a>|
 |003 Roman möchte ins Kino - mit Classes - 2|*Klassen, private, Getter*|<a href="https://www.youtube.com/watch?v=xoDQDq2V7W0"><img src="images/003.png" align="left" style="width: 300px; height: auto;"></a>|
