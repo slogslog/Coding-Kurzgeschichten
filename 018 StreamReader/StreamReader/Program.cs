@@ -11,7 +11,7 @@ namespace School_CCC_20170331
     {
         static void Main(string[] args)
         {
-            StreamReader reader = new StreamReader("level1-eg.txt");
+            StreamReader reader = new StreamReader(@"..\..\..\CCC data\level1-eg.txt");
 
             string line = reader.ReadLine();
             int y = int.Parse(line);
