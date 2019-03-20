@@ -1,0 +1,37 @@
+﻿<Window x:Class="Umrechner_Celsius_auf_Kelvin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Umrechner_Celsius_auf_Kelvin"
+        mc:Ignorable="d"
+        Title="Celsius-Kelvin-Umrechner" Height="154" Width="500" Background="#FFFEF683">
+    <Border Margin="10">
+        <StackPanel>
+            <Grid VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Celsius (°C)" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Width="238" FontSize="20"/>
+                <Label Content="Kelvin (K)" Grid.Column="1" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Width="238" FontSize="20"/>
+            </Grid>
+            <Grid VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="Celsius"  HorizontalAlignment="Center" HorizontalContentAlignment="Center" Width="218" FontSize="20" Text="0" Margin="10,0,10,-0.333" Background="White"/>
+                <TextBox x:Name="Kelvin"  Grid.Column="1" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Width="228" FontSize="20" Text="0" Margin="10,0,0,-0.333"/>
+            </Grid>
+            <Grid VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="ButtonToKelvin" Content="auf K umrechnen"  HorizontalAlignment="Center" HorizontalContentAlignment="Center" Width="218" FontSize="20" Margin="10,5,10,4.667" Background="#FF43FCF1" Click="OnConvertToKelvin"/>
+                <Button x:Name="ConvertToCelsius" Content="auf °C umrechnen" Grid.Column="1" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Width="218" FontSize="20" Margin="10,5,10,4.333" Background="#FF43FCF1" Click="OnConvertToCelsius"/>
+            </Grid>
+        </StackPanel>
+    </Border>
+</Window>
