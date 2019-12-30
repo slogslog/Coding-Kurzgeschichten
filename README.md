@@ -2,6 +2,8 @@
 
 Hier findet man alle Programme die im Youtube Channel [Coding Kurzgeschichten](https://www.youtube.com/channel/UCMcHR9DBcGsbDtoZyZIFqoA) erstellt oder auch nur erklärt werden. 
 
+Der Channel wurde am 30. Dezember 2019 unbenannt. Der alte Name war "Kurzgeschichten in C#". Der Link "http://github.com/slogslog/Kurzgeschichten-in-CSharp" ist obsolete und in allen Unterlagen durch "http://github.com/slogslog/Coding-Kurzgeschichten" zu ersetzen.
+
 **Warum ist der Code auf Deutsch?**
 Da die Lernvideos alle das Ziel verfolgen Jugendlichen und Junggebliebenen Hilfe beim Erlernen von C# zu geben, sind Variablen-, Klassen- und Methodennamen hauptsächlich in Deutsch, obwohl das in der professionellen Softwareentwicklung äußerst ungewöhnlich ist. Ich habe mich trotzdem dazu entschieden, weil ich denke, dass es für viele junge angehende Code Junkies durchaus hilfreich ist. Die Umstellung auf Englisch zu einem späteren Zeitpunkt fällt dagegen vergleichsweise nicht schwer.
 
