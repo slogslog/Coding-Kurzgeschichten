@@ -186,7 +186,7 @@ namespace Collector_Livestream
                         }
                     }
 
-                    WriteText($"{points.ToString()} points ({things.Count})", width / 2, 0, ConsoleColor.White);
+                    WriteText($"{points.ToString()} points ({things.Count}) ", width / 2, 0, ConsoleColor.White);
 
                     if ( things.Count == 0 )
                     {
