@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livestream_Passwortgenerator", "Livestream_Passwortgenerator\Livestream_Passwortgenerator.csproj", "{5D0C2EB4-AAB8-468C-88D7-DFBADBA8D12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0C2EB4-AAB8-468C-88D7-DFBADBA8D12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0C2EB4-AAB8-468C-88D7-DFBADBA8D12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0C2EB4-AAB8-468C-88D7-DFBADBA8D12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0C2EB4-AAB8-468C-88D7-DFBADBA8D12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AB2E32-14F0-4A56-809C-0077A86A16C3}
+	EndGlobalSection
+EndGlobal
