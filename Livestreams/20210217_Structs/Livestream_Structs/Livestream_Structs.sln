@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livestream_Structs", "Livestream_Structs\Livestream_Structs.csproj", "{5516E7CC-0BCB-4F1F-9050-9287AEF0961A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5516E7CC-0BCB-4F1F-9050-9287AEF0961A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5516E7CC-0BCB-4F1F-9050-9287AEF0961A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5516E7CC-0BCB-4F1F-9050-9287AEF0961A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5516E7CC-0BCB-4F1F-9050-9287AEF0961A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC8E8CB8-880F-4D29-A710-7F68ECED184C}
+	EndGlobalSection
+EndGlobal
