@@ -7,8 +7,7 @@ Einige Freunde zocken miteinander. Nach dem Spiel hat jeder von Ihnen eine besti
 In einem Programm sollen nun die Daten aller Freunde eingegeben werden und dann Auswertungen gemacht werden, z. B. jener Spieler bestimmt werden, der die meisten Missionen erfüllt hat.
 
 ### Beispiel: ###
-**Eingabe:**
-* Anzahl der Freunde: 4
+**Eingabe:** (Stoppkriterium: Es wird kein Name eingegeben.)
 * Rafael 4 Missionen 8 Goldstücke
 * Fatima 6 Missionen 7 Goldstücke
 * Mark 10 Missionen 3 Goldstücke
